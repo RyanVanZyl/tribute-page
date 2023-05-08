@@ -6,17 +6,17 @@
 }
 
 body {
+
     background-color: rgb(214, 184, 172);
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ylaA1_jUGtonT5fftsm85f1OELmaSNzETw&usqp=CAU);
     background-blend-mode: darken;
  
-}
+ }
 
 .header{
     background-color: rgba(224, 255, 255, 0.651);
     border-radius: 80px;
     margin:90px 90px 90px;
-
 
 }
 
@@ -33,7 +33,7 @@ p {
 }
 
 a {
-    font-size: 50px;
+    font-size:50px;
 }
 
 h1 {

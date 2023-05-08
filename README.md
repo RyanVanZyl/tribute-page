@@ -1,13 +1,14 @@
 # tribute-page
+
 tribute page goes out to Akira Toriyama
 
 development branch was created & switch to default
 
-# Project Name: Dr. Norman Borlaug Tribute page
+# Project Name: Akira Toriyama Tribute page
 
 # Description
 
-Dr. Norman Borlaug Tribute page and his achivements.
+Akira Toriyama and his achivements.
 
 ## Live Demo
 
@@ -22,10 +23,10 @@ Dr. Norman Borlaug Tribute page and his achivements.
 
 ## Authors
 
-👤 **Brham Dev Mahato**
+👤 **Ryan Van Zyl**
 
-- Github: [@369webforall](https://github.com/369webforall)
-- Linkedin: [linkedin](https://www.linkedin.com/in/dev1980/)
+- Github: [@369webforall](https://github.com/RyanVanZyl)
+- Linkedin: [linkedin](https://www.linkedin.com/in/ryan-van-zyl-40574922b/)
 
 ## Prerequisite
 
