@@ -2,7 +2,7 @@
 
 tribute page goes out to Akira Toriyama
 
-development branch was created & switch to default
+development branch was created & switched to default
 
 # Project Name: Akira Toriyama Tribute page
 
