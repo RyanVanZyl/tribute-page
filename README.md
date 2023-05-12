@@ -12,7 +12,7 @@ Akira Toriyama and his achivements.
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://645e40605ad82509e78bb0f2--enchanting-croquembouche-f25d18.netlify.app/)
 
 ## Built With
 
