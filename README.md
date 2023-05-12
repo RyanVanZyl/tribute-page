@@ -12,7 +12,7 @@ Akira Toriyama and his achivements.
 
 ## Live Demo
 
-[Live Demo Link](https://astounding-syrniki-7c075b.netlify.app/)
+[Live Demo Link]()
 
 ## Built With
 
